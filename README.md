@@ -1,6 +1,6 @@
 # militech: 2024-2팀
 
-# 
+
 *시계열데이터 기반 회전체 고장예지진단 기법 개발 *
 Development of a Fault Prognosis and Diagnosis Method for Rotating Machinery Based on Time Series Data
 
